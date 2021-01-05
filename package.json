@@ -1,0 +1,10 @@
+{
+  "name": "node-slack-rtm",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/rtm-api": "^5.0.5",
+    "@slack/web-api": "^5.14.0"
+  }
+}
